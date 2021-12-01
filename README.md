@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pablohassa
+- 👋 Hi, I’m @Pablohassan
 - 👀 I’m interested in lots of stuff, like music, but also coding
 - 🌱 I’m currently learning the basics of code and algorithms
 - 💞️ I’m looking to collaborate on blockchain projects in near future
